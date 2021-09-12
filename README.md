@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-[Twitter](https://twitter.com/vavkamil) | [Blog](https://vavkamil.cz/) | [LinkedIn](https://www.linkedin.com/in/vavkamil/) | [Reddit](https://www.reddit.com/user/_vavkamil_)
+[🕵️ Blog](https://vavkamil.cz/) | [🐦 Twitter](https://twitter.com/vavkamil) | [💻 Reddit](https://www.reddit.com/user/_vavkamil_) | [📩 LinkedIn](https://www.linkedin.com/in/vavkamil/) 
 
-- 🕵️ [Whoami](https://vavkamil.cz/whoami/)
-- 💰 [Bug bounty](https://vavkamil.cz/bug-bounty/)
-- 📖 [Blog](https://vavkamil.cz/blog/)
-- 💻 [Tools](https://github.com/vavkamil)
-- 📢 [Talks](vavkamil.cz/talks/)
-- 🏆 [LinkedIn](https://www.linkedin.com/in/vavkamil/)
-- 📩 [Contact](vavkamil.cz/contact/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vavkamil&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile)
+
+![vavkamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=vavkamil&show_icons=true&theme=github_dark)
